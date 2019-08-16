@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/thomastse/xtrabeans/_apis/build/status/lappun.pipelines-java?branchName=master)](https://dev.azure.com/thomastse/xtrabeans/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
